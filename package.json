@@ -1,0 +1,9 @@
+{
+  "name": "@getroomservice/test-package-for-github",
+  "version": "0.0.0",
+  "description": "Add real time collaboration to any project",
+  "main": "index.js",
+  "repository": "https://github.com/getroomservice/test-package-for-github",
+  "author": "Evan Conrad",
+  "license": "MIT"
+}
